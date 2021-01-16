@@ -1,2 +1,0 @@
-# sequrr
-Sequrr Landing page
